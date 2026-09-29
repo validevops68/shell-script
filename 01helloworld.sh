@@ -1,3 +1,5 @@
 #!/bin/bash
-# This is the first progragm
+
+# welcome to first program
+
 echo "Welcome to first program"
