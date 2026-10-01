@@ -9,7 +9,7 @@ echo "Present directory $PWD"
 echo "who is running the command or script $USER"
 echo "Home directory of the current user $HOME"
 echo "PID of the script $$"
-slee 100
+sleep 100
 echo "PID of the currnt bckground process running: $!"
 echo "All args passwd to the script : $*"
 
