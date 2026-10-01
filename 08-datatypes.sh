@@ -8,6 +8,6 @@ echo "the sume value is: $SUM"
 
 #one me data type we have Array or list
 
-FRUTES=(Apple banana mango)
+FRUITES=(Apple banana mango)
 
 echo "All the fruites are: ${FRUITES[@]}"
